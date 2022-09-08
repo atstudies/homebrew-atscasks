@@ -1,5 +1,6 @@
 cask "looking-glass-bridge" do
   arch arm: "m1"
+  arch intel: "x64"
 
   version "2.0.6"
   sha256 :no_check
